@@ -9,7 +9,8 @@ function sayHello(name, age){
     console.log(`내 이름은 ${name} 입니다. 나이는 ${age} 살 압니다. `)
 }
 
-sayHello('고영희', 20);
+수정sayHello('고영희', 20);
 */
+alert('수정');
 
 
